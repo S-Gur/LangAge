@@ -24,4 +24,4 @@ ROIs: functionally based ROIs, restricted by 111 anatomical cortical and subcort
 ROIs in the Harvard-Oxford atlase with maximum probability through 50 percent). See 
 meta.xlsx for ROIs' names (as well as participants' age and sex).
 
-# YAs = Younger adults; OAs = Older adults
+YAs = Younger adults; OAs = Older adults
