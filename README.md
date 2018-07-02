@@ -9,10 +9,10 @@ age, mean = 25.0; 10 male) and 19 older adults (59-76 years of age, mean = 67.3;
 post - GLM analysis.
 
 Two tasks (Phonological match/mismatch and semantic match/mismatch) are provided, with 
-Match trials separated from Mismatch trials:
-PhonM = Phonological Match
-PhonNM = Phonological Non-Match
-SemM = Semantic Match
+Match and Non-Match trials separated:
+PhonM = Phonological Match; 
+PhonNM = Phonological Non-Match; 
+SemM = Semantic Match; 
 SemNM = Semantic Non-Match
 
 For each of the above 8 files (file per run) are provided per participant. E.g. 
@@ -25,4 +25,3 @@ ROIs in the Harvard-Oxford atlase with maximum probability through 50 percent). 
 meta.xlsx for ROIs' names (as well as participants' age and sex).
 
 YAs = Younger adults; OAs = Older adults
-
