@@ -1,0 +1,112 @@
+﻿Column_ID,ROI_Name
+1,Left Frontal Pole
+2,Left Insular Cortex
+3,Left Superior Frontal Gyrus
+4,Left Middle Frontal Gyrus
+5,Left Inferior Frontal Gyrus pars triangularis
+6,Left Inferior Frontal Gyrus pars opercularis
+7,Left Precentral Gyrus
+8,Left Temporal Pole
+9,Left Superior Temporal Gyrus anterior division
+10,Left Superior Temporal Gyrus posterior division
+11,Left Middle Temporal Gyrus anterior division
+12,Left Middle Temporal Gyrus posterior division
+13,Left Middle Temporal Gyrus temporooccipital part
+14,Left Inferior Temporal Gyrus anterior division
+15,Left Inferior Temporal Gyrus posterior division
+16,Left Inferior Temporal Gyrus temporooccipital part
+17,Left Postcentral Gyrus
+18,Left Superior Parietal Lobule
+19,Left Supramarginal Gyrus anterior division
+20,Left Supramarginal Gyrus posterior division
+21,Left Angular Gyrus
+22,Left Lateral Occipital Cortex superior division
+23,Left Lateral Occipital Cortex inferior division
+24,Left Intracalcarine Cortex
+25,Left Frontal Medial Cortex
+26,Left Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)
+27,Left Subcallosal Cortex
+28,Left Paracingulate Gyrus
+29,Left Cingulate Gyrus anterior division
+30,Left Cingulate Gyrus posterior division
+31,Left Precuneous Cortex
+32,Left Cuneal Cortex
+33,Left Frontal Orbital Cortex
+34,Left Parahippocampal Gyrus anterior division
+35,Left Parahippocampal Gyrus posterior division
+36,Left Lingual Gyrus
+37,Left Temporal Fusiform Cortex anterior division
+38,Left Temporal Fusiform Cortex posterior division
+39,Left Temporal Occipital Fusiform Cortex
+40,Left Occipital Fusiform Gyrus
+41,Left Frontal Operculum Cortex
+42,Left Central Opercular Cortex
+43,Left Parietal Operculum Cortex
+44,Left Planum Polare
+45,Left Heschls Gyrus (includes H1 and H2)
+46,Left Planum Temporale
+47,Left Supracalcarine Cortex
+48,Left Occipital Pole
+49,Right Frontal Pole
+50,Right Insular Cortex
+51,Right Superior Frontal Gyrus
+52,Right Middle Frontal Gyrus
+53,Right Inferior Frontal Gyrus pars triangularis
+54,Right Inferior Frontal Gyrus pars opercularis
+55,Right Precentral Gyrus
+56,Right Temporal Pole
+57,Right Superior Temporal Gyrus anterior division
+58,Right Superior Temporal Gyrus posterior division
+59,Right Middle Temporal Gyrus anterior division
+60,Right Middle Temporal Gyrus posterior division
+61,Right Middle Temporal Gyrus temporooccipital part
+62,Right Inferior Temporal Gyrus anterior division
+63,Right Inferior Temporal Gyrus posterior division
+64,Right Inferior Temporal Gyrus temporooccipital part
+65,Right Postcentral Gyrus
+66,Right Superior Parietal Lobule
+67,Right Supramarginal Gyrus anterior division
+68,Right Supramarginal Gyrus posterior division
+69,Right Angular Gyrus
+70,Right Lateral Occipital Cortex superior division
+71,Right Lateral Occipital Cortex inferior division
+72,Right Intracalcarine Cortex
+73,Right Frontal Medial Cortex
+74,Right Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)
+75,Right Subcallosal Cortex
+76,Right Paracingulate Gyrus
+77,Right Cingulate Gyrus anterior division
+78,Right Cingulate Gyrus posterior division
+79,Right Precuneous Cortex
+80,Right Cuneal Cortex
+81,Right Frontal Orbital Cortex
+82,Right Parahippocampal Gyrus anterior division
+83,Right Parahippocampal Gyrus posterior division
+84,Right Lingual Gyrus
+85,Right Temporal Fusiform Cortex anterior division
+86,Right Temporal Fusiform Cortex posterior division
+87,Right Temporal Occipital Fusiform Cortex
+88,Right Occipital Fusiform Gyrus
+89,Right Frontal Operculum Cortex
+90,Right Central Opercular Cortex
+91,Right Parietal Operculum Cortex
+92,Right Planum Polare
+93,Right Heschls Gyrus (includes H1 and H2)
+94,Right Planum Temporale
+95,Right Supracalcarine Cortex
+96,Right Occipital Pole
+97,Left Thalamus
+98,Left Caudate
+99,Left Putamen
+100,Left Pallidum
+101,Brain-Stem
+102,Left Hippocampus
+103,Left Amygdala
+104,Left Accumbens
+105,Right Thalamus
+106,Right Caudate
+107,Right Putamen
+108,Right Pallidum
+109,Right Hippocampus
+110,Right Amygdala
+111,Right Accumbens
