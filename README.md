@@ -9,7 +9,7 @@ age, mean = 25.0; 10 male) and 19 older adults (59-76 years of age, mean = 67.3;
 post - GLM analysis.
 
 Two tasks (Phonological match/mismatch and semantic match/mismatch) are provided, with 
-Match and Non-Match trials separated:
+Match and Non-Match (=mismatch) trials separated:
 PhonM = Phonological Match; 
 PhonNM = Phonological Non-Match; 
 SemM = Semantic Match; 
@@ -17,7 +17,7 @@ SemNM = Semantic Non-Match
 
 For each of the above 8 files (file per run) are provided per participant. E.g. 
 ./OAs/201/PhonM_Run1.csv holds the data for an older adult (ID 201) for the phonological 
-Matcha trials during run 1. The data are provided as time series (rows) per regions of 
+Match trials during run 1. The data are provided as time series (rows) per regions of 
 interest (ROI; columns). 
 
 ROIs: functionally based ROIs, restricted by 111 anatomical cortical and subcortical 
